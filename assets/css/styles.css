@@ -73,10 +73,12 @@ body {
 }
 
 
-
-
-
-
-body {
-  background-color:pink;
+h1, h2, h3 {
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
 }
+
+
+
+
+
